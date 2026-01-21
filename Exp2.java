@@ -2,12 +2,6 @@ import java.util.Scanner;
 
 public class Exp2 {
     public static void main(String[] args) {
-        // Display current working directory
-        String currentPath = System.getProperty("user.dir");
-        System.out.println("Current Directory: " + currentPath);
-        System.out.println("Name :- Rohit Kumar");
-        System.out.println("Admission No :- 24SCSE2240093");
-
         Scanner sc = new Scanner(System.in);
 
         // Input rows and columns

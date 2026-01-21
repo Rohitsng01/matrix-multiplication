@@ -3,10 +3,6 @@
 ## Overview
 A Java program that performs matrix operations including **addition** and **multiplication** on two matrices of the same dimensions.
 
-## Author
-- **Name:** Rohit Kumar
-- **Admission No:** 24SCSE2240093
-
 ## Features
 - ✅ Matrix Addition - Adds corresponding elements of two matrices
 - ✅ Matrix Multiplication - Multiplies corresponding elements
