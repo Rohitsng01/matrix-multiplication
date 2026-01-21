@@ -79,6 +79,3 @@ Product of two matrices:
 
 ## License
 Educational purposes - Lab Assignment
-
----
-**Lab 2 Experiment 2**
